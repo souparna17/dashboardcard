@@ -1,0 +1,4 @@
+npm install react-bootstrap bootstrap react-router-dom axios
+
+
+use this command before npm start
